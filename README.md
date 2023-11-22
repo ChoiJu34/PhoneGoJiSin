@@ -63,8 +63,8 @@
 <img src="https://github.com/leehandsub/phonegojisin/assets/35682233/78ed6a08-3efb-444d-b884-88820d19339f" width="20%">
 
 ### 관리자페이지
-<img src="https://raw.githubusercontent.com/ChoiJu34/PhoneGoJiSin/choiju/phonesin/src/main/resources/static/images/WebMainPage.PNG?token=GHSAT0AAAAAACKSDWK53HLMRTZKGLTPP4GMZK5LTZA" width="20%">
-<img src="https://raw.githubusercontent.com/ChoiJu34/PhoneGoJiSin/choiju/phonesin/src/main/resources/static/images/WebMainPageMobile.PNG?token=GHSAT0AAAAAACKSDWK5EE2Y7Q7YKPATUCOQZK5LTNA" width="70%">
+<img src="https://raw.githubusercontent.com/ChoiJu34/PhoneGoJiSin/choiju/phonesin/src/main/resources/static/images/WebMainPage.PNG?token=GHSAT0AAAAAACKSDWK53HLMRTZKGLTPP4GMZK5LTZA" width="70%">
+<img src="https://raw.githubusercontent.com/ChoiJu34/PhoneGoJiSin/choiju/phonesin/src/main/resources/static/images/WebMainPageMobile.PNG?token=GHSAT0AAAAAACKSDWK5EE2Y7Q7YKPATUCOQZK5LTNA" width="20%">
 
 
 

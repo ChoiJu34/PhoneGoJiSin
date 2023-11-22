@@ -11,8 +11,8 @@
 | 팀장 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 | --- | --- | --- | --- | --- | --- |
 | 김은하 | 오희주 | 이현섭 | 장성운 | 박성욱 | 최희주 |
-| Android | Android | Android | Back-end | Back-end / CI / CD | Back-end |
-| 마이페이지, 회원탈퇴, 리모컨, 온습도, UCC제작 | y2k 사진부스, 리모컨, 로그인, 회원가입, 온습도, PlayStore버전관리, 발표자 |기기대여, 반납, 홈캠 기능, 시연자 | 기기 반납, 멤버 관리, 로그인, 회원가입, 온습도 기능, apk 생성 | 기기 기증, 관리자 페이지, 사진 부스 기능, 스케쥴링 기능, 데이터 크롤링, 홈캠 기능 | 기기 대여, 휴대폰 관리, 주소 관리, 관리자 페이지, 홈캠 기능, 스케쥴링 기능 |
+| Android | Android | Android | Back-end | Back-end & CI / CD | Back-end & Front-end |
+| 마이페이지, 회원탈퇴, 리모컨, 온습도, UCC제작 | y2k 사진부스, 리모컨, 로그인, 회원가입, 온습도, PlayStore버전관리, 발표자 |기기대여, 반납, 홈캠 기능, 시연자 | 기기 반납, 멤버 관리, 로그인, 회원가입, 온습도 기능, apk 생성 | 기기 기증, 관리자 페이지, 사진 부스 기능, 스케쥴링 기능, 데이터 크롤링, 홈캠 기능 | 기기 대여, 주소 관리, 관리자 페이지, 관리자 기능, 공식 홈페이지, 홈캠 기능, 스케쥴링 기능 |
  
 ## 서비스
 
@@ -62,6 +62,9 @@
 <img src="https://github.com/leehandsub/phonegojisin/assets/35682233/f869ac41-afbc-4ca4-9fe4-731a775868d1" width="20%">
 <img src="https://github.com/leehandsub/phonegojisin/assets/35682233/78ed6a08-3efb-444d-b884-88820d19339f" width="20%">
 
+### 관리자페이지
+<img src="https://raw.githubusercontent.com/ChoiJu34/PhoneGoJiSin/choiju/phonesin/src/main/resources/static/images/WebMainPage.PNG?token=GHSAT0AAAAAACKSDWK53HLMRTZKGLTPP4GMZK5LTZA" width="70%">
+<img src="https://raw.githubusercontent.com/ChoiJu34/PhoneGoJiSin/choiju/phonesin/src/main/resources/static/images/WebMainPageMobile.PNG?token=GHSAT0AAAAAACKSDWK5EE2Y7Q7YKPATUCOQZK5LTNA" width="20%">
 
 
 
